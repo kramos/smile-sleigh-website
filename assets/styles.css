@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 10;
+    padding: 0;
+    color: #333;
+    letter-spacing: 0.5px;
+    line-height: 150%;
+}
+
+header {
+    background-color: #c70039;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    transition: opacity 0.3s;
+}
+
+header ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    margin-top: 80px;
+    padding: 20px;
+}
+
+footer {
+    background-color: #c70039;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    position: relative; /* Ensure footer is positioned relative to content */
+    margin-top: 20px; /* Ensure there’s space above the footer */
+    clear: both; /* Make sure it clears floated elements */
+    width: 100%; /* Full width of the container */
+}
+
+.mail {
+    color: white;
+    font-weight: bold;
+}
+
+
+.testimonial {
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Vertically center the items */
+    background-color: #f9f9f9; /* Default background */
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px; /* Space between testimonials */
+    border: 1px solid #000000;
+    box-shadow: 4px 4px 4px 3px rgba(0, 0, 0, 0.1);
+    font-style: italic;
+    max-width: 45%; /* Limit width to allow two per row */
+    float: left; /* Allows the bubbles to be side by side */
+}
+
+.quote {
+    font-size: 5em; /* Make the quotes larger */
+    color: #c70039; /* Match the theme color */
+    margin: 0 10px; /* Space between the quote and the text */
+}
+
+.text {
+    flex-grow: 1; /* Allow the text to grow and take the remaining space */
+}
+
+/* Different background colors for the speech bubbles */
+.testimonial.red {
+    background-color: #ffcccc; /* Light red */
+}
+
+.testimonial.green {
+    background-color: #ccffcc; /* Light green */
+}
+
+.testimonial.blue {
+    background-color: #cce5ff; /* Light blue */
+}
+
+.testimonial.yellow {
+    background-color: #ffffcc; /* Light yellow */
+}
