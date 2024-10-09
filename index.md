@@ -11,5 +11,5 @@ title: Smile Sleigh
 Through the simple act of giving a gift, Smile Sleigh brings joy to vulnerable families during the festive season.
 {: style="text-align: center;"}
 
-[Donate Today](donate)
+**[DONATE TODAY](donate)**
 {: style="text-align: center;"}
