@@ -33,4 +33,4 @@ high-risk domestic abuse**. By partnering with Smile Sleigh you are having a dir
 affected by domestic abuse.
 We can provide print and marketing collateral, collect donations directly from you and provide any additional information you need to get started.
 
-***agreed with SS **[https://safelives.org.uk/]()*
+***agreed with SS **[https://safelives.org.uk/](https://safelives.org.uk/)*
