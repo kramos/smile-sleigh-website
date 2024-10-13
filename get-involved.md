@@ -21,4 +21,4 @@ Local businesses can help Smile Sleigh by setting up collection points, advertis
 - Donate
  - Monetary donation which the Smile Sleigh team will use to purchase gifts
  - Business Buy One, Donate One scheme: businesses match donate gifts donated by customers
- - Donation of gifts or skills/ services*
+ - Donation of gifts or skills/ services
